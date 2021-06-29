@@ -3,7 +3,7 @@
 - 🍃 SQL Developer
 - 💻 currently learning Django-REST framework and flask api.
 - 💞️ looking forward to learn data science 😁 and collaborate on back-end python projects.
-- 📫 How to reach me: <a href="https://discord.com/users/alwaysbecalm" target="_blank">discord</a>, <a href="https://t.me/AlwaysBeCalm" target="_blank">telegram</a>, <a href="mailto:abdullah-nasser-@outlook.com?subject=feedback" target="_blank">email</a>.
+- 📫 How to reach me: <a href="https://discord.com/users/alwaysbecalm" target="_blank">discord</a>, <a href="https://t.me/AlwaysBeCalm" target="_blank">telegram</a>, <a href="https://www.linkedin.com/in/abdullah-nasser-/" target="_blank">LinkedIn</a>, <a href="mailto:abdullah-nasser-@outlook.com?subject=feedback" target="_blank">email</a>.
 
 <!---
 AlwaysBeCalm/AlwaysBeCalm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
